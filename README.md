@@ -28,3 +28,7 @@ Layout
 The rest of the Schematics and Layouts can be found in the exports folder within the repo.
 
 Designed in KiCad by Alexander Stankus
+
+GitHub: @alexanderstankus
+
+Email: alexstankus99@gmail.com
