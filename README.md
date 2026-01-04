@@ -13,19 +13,19 @@ Prototype node boards for CAN Bus communication featuring an IMU, Wheel Speed se
 # Schematic and Layout Examples
 
 
-Schematic
+Schematic for IMU + STM32
 
 
 ![3D Render](./exports/IMU/sch.png)
 
 
-Layout
+Layout for IMU + STM32
 
 
 ![3D Render](./exports/IMU/pcb.png)
 
 #
-The rest of the Schematics and Layouts can be found in the exports folder within the repo.
+The other 2 Schematics and Layouts (wheel speed sensor and suspension sensors) can be found in the exports folder within the repo.
 
 Designed in KiCad by Alexander Stankus
 
